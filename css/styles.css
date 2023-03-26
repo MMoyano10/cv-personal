@@ -1,0 +1,28 @@
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
+.bgimg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('/images/Mathius-image.jpeg');
+  min-height: 100%;
+}
+
+#1:hover{
+  transform: scale(1.5);
+}
+#2:hover{
+  transform: scale(1.5);
+}
+#3:hover{
+  transform: scale(1.1);
+}
+#4:hover{
+  transform: scale(1.1);
+}
+#5:hover{
+  transform: scale(1.1); 
+}
+#6:hover{
+  transform: scale(1.1);
+}
